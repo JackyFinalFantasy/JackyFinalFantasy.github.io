@@ -1,1 +1,1 @@
-# JackyFinalFantasy.github.io
+Privacy policies and documentation for apps
