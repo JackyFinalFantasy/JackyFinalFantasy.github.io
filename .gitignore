@@ -1,0 +1,43 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# =========================
+# Local-only workspace
+# =========================
+/_local/
+
+# =========================
+# Android build outputs
+# =========================
+/app/build/
+/app/release/
+
+# =========================
+# Codex / local sandbox
+# =========================
+.android-user/
+.gradle-user/
+
+# =========================
+# Python (TTS tools)
+# =========================
+__pycache__/
+*.pyc
+
+# =========================
+# Generated audio (TTS output)
+# =========================
+docs_audio/
